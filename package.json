@@ -1,0 +1,55 @@
+{
+  "name": "ebook",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.6.3",
+    "@react-native-community/netinfo": "^4.6.1",
+    "formik": "^2.0.4",
+    "install": "^0.13.0",
+    "moment": "^2.24.0",
+    "npm": "^6.13.1",
+    "react": "16.9.0",
+    "react-native": "0.61.4",
+    "react-native-dark-mode": "^0.2.1",
+    "react-native-firebase": "^5.5.6",
+    "react-native-gesture-handler": "^1.5.0",
+    "react-native-iap": "^4.3.0",
+    "react-native-image-placeholder": "^1.0.14",
+    "react-native-offline": "^5.2.0",
+    "react-native-paper": "^3.2.1",
+    "react-native-reanimated": "^1.4.0",
+    "react-native-render-html": "^4.1.2",
+    "react-native-screen": "0.0.1",
+    "react-native-snap-carousel": "^3.8.4",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-drawer": "^2.3.3",
+    "react-navigation-stack": "^1.10.3",
+    "react-navigation-tabs": "^2.6.0",
+    "rn-placeholder": "^3.0.0",
+    "tcomb-form-native": "^0.6.20",
+    "yup": "^0.27.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/runtime": "^7.7.2",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.6.0",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.57.0",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

@@ -1,4 +1,4 @@
-package com.ebook;
+package com.kriss_app;
 
 import android.app.Application;
 import android.content.Context;

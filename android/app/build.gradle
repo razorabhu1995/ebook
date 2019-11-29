@@ -130,7 +130,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.ebook"
+        applicationId "com.kriss_app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,4 +1,4 @@
-package com.ebook;
+package com.kriss_app;
 import android.content.Intent;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;

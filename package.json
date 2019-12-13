@@ -15,7 +15,7 @@
     "formik": "^2.0.4",
     "install": "^0.13.0",
     "moment": "^2.24.0",
-    "npm": "^6.13.1",
+    "npm": "^6.13.4",
     "react": "16.9.0",
     "react-native": "0.61.4",
     "react-native-dark-mode": "^0.2.1",
